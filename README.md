@@ -8,3 +8,4 @@ cd report-rubika
 python reporter-maxtor.py
 
 حالا ایدی رو بدون @. وارد. کنسد و بزارید گذارش بزنه
+@Alirezaaaaansb
